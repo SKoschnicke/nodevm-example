@@ -1,0 +1,13 @@
+{
+  "name": "nodevm-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sven Koschnicke <s.koschnicke@gfxpro.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vm2": "^3.9.11"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
